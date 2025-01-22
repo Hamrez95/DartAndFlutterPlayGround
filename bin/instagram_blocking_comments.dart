@@ -19,3 +19,4 @@ void BadWordsFinder(String text) {
     }
   }  
 }
+
